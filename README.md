@@ -21,6 +21,7 @@ npm install age-encryption
 ## Usage
 
 `age-encryption` is a modern ES Module with built-in types.
+
 It's compiled for ES2022, compatible with Node.js 18+, Bun, and all recent browsers.
 
 #### Encrypt and decrypt a file with a new recipient / identity pair
